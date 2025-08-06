@@ -1,0 +1,15 @@
+TEST SET STATISTICS
+Total patches: 1850
+
+Class Distribution:
+------------------
+ 1 Temperate needleleaf forest   :  185 (10.0%)
+ 5 Temperate broadleaf forest    :  185 (10.0%)
+ 6 Mixed forest                  :  185 (10.0%)
+ 8 Temperate shrubland           :  185 (10.0%)
+10 Temperate grassland           :  185 (10.0%)
+14 Wetland                       :  185 (10.0%)
+15 Cropland                      :  185 (10.0%)
+16 Barren lands                  :  185 (10.0%)
+17 Urban                         :  185 (10.0%)
+18 Water                         :  185 (10.0%)
