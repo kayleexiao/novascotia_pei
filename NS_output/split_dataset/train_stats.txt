@@ -1,0 +1,17 @@
+TRAIN SET STATISTICS
+Total patches: 1030
+
+Class Distribution:
+------------------
+ 1 Temperate needleleaf forest   :  100 (9.7%)
+ 5 Temperate broadleaf forest    :  100 (9.7%)
+ 6 Mixed forest                  :  100 (9.7%)
+ 8 Temperate shrubland           :  100 (9.7%)
+10 Temperate grassland           :  100 (9.7%)
+12 Polar grassland-lichen        :   10 (1.0%)
+13 Polar barren-lichen           :   20 (1.9%)
+14 Wetland                       :  100 (9.7%)
+15 Cropland                      :  100 (9.7%)
+16 Barren lands                  :  100 (9.7%)
+17 Urban                         :  100 (9.7%)
+18 Water                         :  100 (9.7%)
